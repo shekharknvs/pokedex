@@ -1,0 +1,1 @@
+mongoimport -d pokemons-db -c pokemons --type json --file ./pokedex.json --jsonArray
