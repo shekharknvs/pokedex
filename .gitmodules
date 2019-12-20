@@ -1,0 +1,3 @@
+[submodule "pokedex-frontend"]
+	path = pokedex-frontend
+	url = https://github.com/shekharknvs/pokedex-frontend.git
